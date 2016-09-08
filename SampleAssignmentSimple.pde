@@ -19,3 +19,4 @@ void face()
   ellipse(85,40,10,15);
   ellipse(115,40,10,15);
 }
+
